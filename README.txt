@@ -21,6 +21,13 @@ This tool helps developers and DevOps teams log and view Docker image versions u
 - PostgreSQL (data storage)
 - psycopg2 (PostgreSQL adapter)
 
+## 🚀 Features
+
+- Pulls Docker image metadata automatically
+- Stores metadata in PostgreSQL
+- REST API endpoints to log and retrieve image versions
+- Simple and extensible Python implementation
+
 -----------------------
 📁 Project Structure
 -----------------------
@@ -118,3 +125,4 @@ Response:
 -----------------------
 
 Developed by: [Aaveg Kumar]
+GitHub: @aaveg123
